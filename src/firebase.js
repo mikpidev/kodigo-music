@@ -5,7 +5,7 @@ import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
   apiKey: "AIzaSyD9HyZz8569aAt35LmkSTciGBcLkoOWaUk",
-  authDomain: "kodigo-music-1cdba.firebaseapp.com",
+  authDomain: "https://kodigo-music-seven-mu.vercel.app/",
   projectId: "kodigo-music-1cdba",
   storageBucket: "kodigo-music-1cdba.firebasestorage.app",
   messagingSenderId: "312172584170",
